@@ -5,12 +5,12 @@
 </p>
 
 <ul>
-  <li style="color:#915F6D">🌸 3rd-year BSIT student, coding my way through college</li>
-  <li style="color:#915F6D">💻 Currently focused on web development</li>
-  <li style="color:#915F6D">🛠️ Tech stack: HTML, CSS, JavaScript, PHP, MySQL, Java</li>
-  <li style="color:#915F6D">🎯 Want to learn AI next</li>
-  <li style="color:#915F6D">🌷 Always open to collaborating on projects and learning new things</li>
-  <li style="color:#915F6D">💌 How to reach me: <a href="mailto:ayiralene@gmail.com" style="color:#915F6D">ayiralene@gmail.com</a></li>
+  <li><font color="#915F6D">🌸 3rd-year BSIT student, coding my way through college</font></li>
+  <li><font color="#915F6D">💻 Currently focused on web development</font></li>
+  <li><font color="#915F6D">🛠️ Tech stack: HTML, CSS, JavaScript, PHP, MySQL, Java</font></li>
+  <li><font color="#915F6D">🎯 Want to learn AI next</font></li>
+  <li><font color="#915F6D">🌷 Always open to collaborating on projects and learning new things</font></li>
+  <li><font color="#915F6D">💌 How to reach me: <a href="mailto:ayiralene@gmail.com"><font color="#915F6D">ayiralene@gmail.com</font></a></li>
 </ul>
 
 > "coffee, code, and a little bit of chaos ☕💅"
